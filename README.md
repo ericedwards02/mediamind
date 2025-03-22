@@ -1,2 +1,3 @@
-# mediamind
-A media-logging tool.
+# media-mind
+
+## media logging, all in one place
